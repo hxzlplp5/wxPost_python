@@ -7,7 +7,7 @@ app_secret = "65cb00e4360bfb836eeac0daf211b8e0"
 template_id = "YvWbHhdfX8RmtG7sI3dLo3408rRkMvc1lhj7m7assxM"
 
 # 这是openid
-user = ["ozGTa6VIxnHfLvJZdLXGQxXCuySs","ozGTa6c8q_UblP3D1m7U2PC7eggk"]
+user = ["ozGTa6c8q_UblP3D1m7U2PC7eggk"]
 
 # 信息配置
 # 所在省份
